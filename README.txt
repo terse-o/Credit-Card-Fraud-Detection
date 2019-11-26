@@ -9,7 +9,7 @@ Note:
 Hello friends, I am writing this message to explain my motivation and approach towards building this project.
 Through my academic curriculum, I am specializing in Data Analytics and Science. Introduciton to courses revolving
 around Data Management and Database Design, Data Warehousing and Business Intellegence and Data Mining & Machine
-Learning picqued my interest in Data Sciece and Machine Learning Algorithms. Learning more about these fields made
+Learning piqued my interest in Data Sciece and Machine Learning Algorithms. Learning more about these fields made
 me realize that the knowledge was never enough and in order to get better and stay up-to-date I had to start
 self-learn whatever I was interested in. This motivated me to learn Python Programming language on my own through
 e-learning sites like Udemy and DataCamp. After getting comfortable with the language I decided to work on some
