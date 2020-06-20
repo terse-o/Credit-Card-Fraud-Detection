@@ -1,7 +1,9 @@
 Credit Card Fraud Detection Model
 
 Language: Python (v3.7)
+
 Editor: PyCharm Community Edition (v2019.1.3)
+
 Descirption: AI model which inputs a list of transactions some fraudulent, some legitimate 
 and calculates the percentage of fraudulent v/s legitimate cases, the accuracy and loss.
 
