@@ -1,17 +1,17 @@
-Credit Card Fraud Detection Model
+**Credit Card Fraud Detection Model**
 
-Language: Python (v3.7)
+**Language:** Python (v3.7)
 
-Editor: PyCharm Community Edition (v2019.1.3)
+**Editor:** PyCharm Community Edition (v2019.1.3)
 
-Descirption: AI model which inputs a list of transactions some fraudulent, some legitimate 
+**Descirption:** AI model which inputs a list of transactions some fraudulent, some legitimate 
 and calculates the percentage of fraudulent v/s legitimate cases, the accuracy and loss.
 
-Note:
+**Note:**
 Basic packages applied in this project are pandas, numpy, tensorflow. The Neural Netwrok algorithm is used to train
 the model on the test dataset.
 
-OVERVIEW:
+**OVERVIEW:**
 
 -Fetch dataset from kaggle repository, learn about dimensions of data through kaggle description and EDA
 
@@ -25,7 +25,7 @@ OVERVIEW:
 
 -Output accuracy when comparing predicted and actual values
 
-MEANS TO TWEAK THE MODEL FOR ACCURACY:
+**MEANS TO TWEAK THE MODEL FOR ACCURACY:**
 
 -Change the number of cells in each layer of neural network (Set: i/p ~ 30 - 100 - 150 - 2 ~ o/p)
 
